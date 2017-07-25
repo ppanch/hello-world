@@ -1,3 +1,2 @@
 # hello-world
-Hello World
-Just adding a message here
+Hello World, just adding a message here
